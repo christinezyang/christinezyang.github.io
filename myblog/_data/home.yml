@@ -1,0 +1,117 @@
+navbar_entries:
+  - title: about
+    url: about
+
+  - title: blog
+    url: blog
+
+  - title: resume
+    url: ./assets/resume.pdf
+
+project_entries: 
+
+  - title: Leap Careers
+    url: /leap
+    desc: Nov. 2020 - present 
+
+  - title: Black Girl MATHgic 
+    url: /black-girl-mathgic
+    desc: Jan. 2020 - May 2020
+
+#  - title: Project 1
+#    url: overview-post
+#    desc: This is an example project, configured in _data/home.yml
+
+#  - title: Project 2
+#    url: overview-post
+#    desc: Projects are shown in card layout
+
+#  - title: Project 3
+#    url: overview-post
+#    desc: You can control visibility from _config.yml file
+
+#  - title: Project 4
+#    url: overview-post
+#    desc: This project uses highlight markup, configured in _data/home.yml
+#    highlight: WIP
+
+#  - title: Project 5
+#    url: overview-post
+#    desc: Moonwalk also has horizontal list (used in header and footer)
+#    highlight: WIP
+
+#  - title: Project 6
+#    url: overview-post
+#    desc: It also has a scalable vertical list (in case you need it)
+
+old_project_entries:
+
+   - title: Studygram
+     url: /studygram
+     desc: sharing my bujo journey
+
+   - title: Keyboard no. 1
+     url: /keyboard-01
+     desc: my first keyboard build
+
+   - title: Keyboard no. 2
+     url: /keyboard-02
+     desc: my second keyboard build
+
+
+#  - title: Soopr
+#    url: https://www.soopr.co
+#    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+#    highlight: NEW
+
+#  - title: Cookie
+#    url: https://github.com/abhinavs/cookie
+#    desc: An open source landing website with supporting pages and integrated blog
+
+footer_entries:
+  - title: email
+    url: mailto:cyang0749@gmail.com
+
+  - title: linkedin
+    url: https://www.linkedin.com/in/christinezyang/
+
+  - title: twitter
+    url: https://twitter.com/christinezyang
+
+  - title: instagram
+    url: https://www.instagram.com/christinezyang/
+
+
+misc_entries:
+  - title: this is an example vertical list
+    url: false
+
+  - title: you can show or hide using a boolean flag in _config.yml
+    url: false
+
+  - title: and you can add data in _data/home.yml
+    url: false
+
+  - title: Blog posts
+    post_list: true
+    url: false
+
+  - title: moonwalk on the Internet
+    url: false
+    entries:
+      - title: on Github
+        url: https://github.com/abhinavs/moonwalk
+
+      - title: originally built for abhinav's homepage
+        url: https://www.abhinav.co
+
+      - title: this list is scalable and can be nested
+        url: false
+        entries:
+          - title: this is nested inside a nested list
+            url: false
+
+          - title: it is easy to use, see _data/home.yml to see how to configure it.
+            url: false
+
+
