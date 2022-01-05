@@ -12,11 +12,12 @@ project_entries:
 
   - title: Leap Careers
     url: /leap
-    desc: Nov. 2020 - present 
+    desc: bringing transparency to the hiring process
+    highlight: NEW
 
   - title: Black Girl MATHgic 
     url: /black-girl-mathgic
-    desc: Jan. 2020 - May 2020
+    desc: fighting against math anxiety one box at a time
 
 #  - title: Project 1
 #    url: overview-post
