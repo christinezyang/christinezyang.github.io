@@ -11,6 +11,7 @@ I'm Christine Yang, a senior at Duke University studying a double major in mathe
 
 ### Fun Facts
 - 365+ day streak on Duolingo 
+- shortest Solitaire time is 31s
 - once spent a day in China picking up panda droppings 
 
 ### Current Favorite Memes 
