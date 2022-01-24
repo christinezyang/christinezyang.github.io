@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Studygram
 ---
 
 First off, some definitions: 

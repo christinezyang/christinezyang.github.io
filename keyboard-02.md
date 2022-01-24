@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Second Keyboard Build
 ---
 
 <img src="./assets/planck-1.jpg" alt="planck picture 1">

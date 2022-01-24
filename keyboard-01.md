@@ -1,5 +1,6 @@
 ---
 layout: post
+title: First Keyboard Build
 ---
 
 <img src="./assets/tofu65-1.jpg" alt="tofu65 picture 1">

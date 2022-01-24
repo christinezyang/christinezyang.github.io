@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Black Girl MATHgic 
 ---
 
 From January to May 2020, I worked part-time as a general business intern at [Black Girl MATHgic](https://blackgirlmathgic.com/), the first and only math subscription box curated for young Black girls. The purpose of the box is to increase math confidence and decrease math anxiety on a 3rd-8th grade math skill level. 
