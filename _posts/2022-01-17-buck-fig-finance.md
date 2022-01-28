@@ -3,7 +3,7 @@ layout: post
 title: Buck Fig Finance, or Why I Caused My Own Senior Year Crisis 
 ---
 
-I'm in my last year of college. The previous semester, after disliking my summer internship experience, I spent a lot of time thinking about a latent crisis brewing under all the philosophy readings, homework sets, and efforts to reconnect with friends. I carefully considered what I wanted to do, no --- what I even *could* do for a job that could take up half of my waking hours. This post details how I, who 
+I'm in my last year of college. The previous semester, after disliking my summer internship experience in finance, I spent a lot of time working through a latent crisis brewing under all my efforts to enjoy my final school year. Nearly all my friends have accepted return offers, while I am still unemployed. I carefully considered what I wanted to do, no --- what I even *could* do for a job that could take up half of my waking hours. This post details how, after 3 years of being committed to finance, I suddenly decided to take a different path. 
 
 ### Once upon a time... 
 
@@ -15,7 +15,7 @@ I was a college freshman. Since literally before Day 1, people started talking a
 
 Of all discussions of what "business" was, I heard the most about Investment Banking (IB). That's what was *cool*, and I had some lofty image of being some Wall Street hotshot. I played into the herd mentality and convinced myself I wanted an IB job at a large bank. (Later, I changed my goal to a Sales & Trading internship, but still at a name-brand bank.)
 
-But you can't pull a bulge-bracket bank internship out of nowhere; you need to collect applicable experiences and to build your network. Duke doesn't have an undergraduate business program, so we flocked to business societies, clubs, and social groups that boasted alumni connections and exclusive networking opportunities, with the added bonus of a solid friend group. For first-years desperate to make connections with peers and anxious to start preparing for *beyond college*, these groups were ideal to join.  
+But you can't pull a bulge-bracket bank internship out of nowhere; you need to collect applicable experiences and build your network. Duke doesn't have an undergraduate business program, so we flocked to business societies, clubs, and social groups that boasted alumni connections and exclusive networking opportunities, with the added bonus of a solid friend group. For first-years desperate to make connections with peers and anxious to start preparing for *beyond college*, these groups were ideal to join.  
 
 ### Typical Failure Arc, then Success 
 
@@ -29,7 +29,7 @@ And so I played this game for a year. Then, I won. I got multiple Super Days and
 
 As with all disappointments, what I got didn't match up with what I expected. 
 
-**Expectation:** flat hierarchy. That's what everyone I talked to claimed S&T was especially flat, since you sit next to your bosses and do the "exact same thing, just on a smaller scale". 
+**Expectation:** flat hierarchy. Everyone I talked to claimed S&T was especially flat, since you sit next to your bosses and do the "exact same thing, just on a smaller scale". 
 
 **Reality:** Hierarchy is too ingrained in these companies' DNA, especially where I worked, where there were 200,000+ employees. I was too idealistic and thought somehow it'd be OK. 
 
@@ -43,7 +43,7 @@ As with all disappointments, what I got didn't match up with what I expected.
 
 **Expectation:** Traders welcome new ways of thinking and fresh perspectives, basically anything that can give you an edge over other traders. 
 
-**Reality:** There is one path to success - do what everyone else was doing. And everyone else was only doing what they were doing because that's what we were told to do in order to succeed. Second warning sign: an MD literally recommended us to "keep our head down" and just diligently do what the higher-ups told us to. 
+**Reality:** There is one path to success: do what everyone else was doing. And everyone else was only doing what they were doing because that's what we were told to do in order to succeed. Second warning sign: an MD literally recommended us to "keep our head down" and just diligently do what the higher-ups told us to. 
 
 **Expectation:** fun, meaningful work. 
 

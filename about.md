@@ -7,6 +7,7 @@ I'm Christine Yang, a senior at Duke University studying a double major in mathe
 
 ### Currently Reading 
 - *Snow Country* by Yasunari Kawabata, trans. Edward G. Seidensticker 
+- *The Divine Comedy* by Dante Alighieri, trans. Allen Mandelbaum
 
 ### Fun Facts
 - 365+ day streak on Duolingo 
