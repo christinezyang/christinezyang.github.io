@@ -3,7 +3,7 @@ layout: post
 title: About
 ---
 
-I'm Christine Yang, a senior at Duke University studying a double major in mathematics and philosophy. I'm from Short Hills, NJ. 
+Hi! I'm Christine Yang, a senior at Duke University studying a double major in mathematics and philosophy. I'm from Short Hills, NJ, but I currently live in Morristown, NJ. 
 
 ### Currently Reading 
 - *Snow Country* by Yasunari Kawabata, trans. Edward G. Seidensticker 
