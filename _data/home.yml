@@ -10,10 +10,14 @@ navbar_entries:
 
 project_entries: 
 
+  - title: Riva
+    url: /riva
+    desc: supercharging salary negotiations
+    highlight: NEW
+
   - title: Leap Careers
     url: /leap
     desc: bringing transparency to the hiring process
-    highlight: NEW
 
   - title: Black Girl MATHgic 
     url: /black-girl-mathgic
