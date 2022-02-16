@@ -14,8 +14,8 @@ title: First Keyboard Build
    - Tribosys 3203 lubricant ([Divinikey](https://divinikey.com/products/tribosys-3203-switch-lubricant))
 - Durock V2 screw-in stabilizers ([Divinikey](https://divinikey.com/products/durock-v2-stabilizers-screw-in))
    - Krytox 205G0 lubricant ([Divinikey](https://divinikey.com/products/krytox-gpl-205-grade-0-switch-lubricant))
-- Cherry Sand PBT Dye-Sub keycaps, Cherry profile ([NovelKeys](https://novelkeys.com/products/cherry-sand)
-- Bulba-san artisan keycap ([Karakuri Caps](https://www.instagram.com/karakuri.caps/) 
+- Cherry Sand PBT Dye-Sub keycaps, Cherry profile ([NovelKeys](https://novelkeys.com/products/cherry-sand))
+- Bulba-san artisan keycap ([Karakuri Caps](https://www.instagram.com/karakuri.caps/))
 
 ### The Process 
 
