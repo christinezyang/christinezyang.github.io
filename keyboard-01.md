@@ -14,8 +14,8 @@ title: First Keyboard Build
    - Tribosys 3203 lubricant ([Divinikey](https://divinikey.com/products/tribosys-3203-switch-lubricant))
 - Durock V2 screw-in stabilizers ([Divinikey](https://divinikey.com/products/durock-v2-stabilizers-screw-in))
    - Krytox 205G0 lubricant ([Divinikey](https://divinikey.com/products/krytox-gpl-205-grade-0-switch-lubricant))
-- Black on White PBT keycaps, OEM profile ([Amazon](https://www.amazon.com/Mistel-Doubleshot-Mechanical-Keyboard-Switches/dp/B08FX9HBMB?th=1))
-- Evangelion Eva Units Laser Etched keycaps, OEM Profile ([Etsy](https://www.etsy.com/listing/881466792/evangelion-keycap-set-eva-unit-cherry-mx)) 
+- Cherry Sand PBT Dye-Sub keycaps, Cherry profile ([NovelKeys](https://novelkeys.com/products/cherry-sand)
+- Bulba-san artisan keycap ([Karakuri Caps](https://www.instagram.com/karakuri.caps/) 
 
 ### The Process 
 
