@@ -65,24 +65,24 @@ For most of college I had an answer to the terrifying question, "What do you wan
 
 <div class="row">
   <div class="column">
-    <img src="./assets/meme-business-bus.jpg" alt="meme 1">
+    <img src="./assets/memes/meme-business-bus.jpg" alt="meme 1">
   </div>
   <div class="column">
-    <img src="./assets/meme-halloween-hired.jpg" alt="meme 2">
+    <img src="./assets/memes/meme-halloween-hired.jpg" alt="meme 2">
   </div>
   <div class="column">
-    <img src="./assets/meme-tired-ape-shit.jpg" alt="meme 3">
+    <img src="./assets/memes/meme-tired-ape-shit.jpg" alt="meme 3">
   </div>
 </div>
 <div class="row">
   <div class="column">
-    <img src="./assets/meme-excel-no-one-cares.jpg" alt="meme 1">
+    <img src="./assets/memes/meme-excel-no-one-cares.jpg" alt="meme 4">
   </div>
   <div class="column">
-    <img src="./assets/meme-unrecognized-talent.jpg" alt="meme 2">
+    <img src="./assets/memes/meme-unrecognized-talent.jpg" alt="meme 5">
   </div>
   <div class="column">
-    <img src="./assets/meme-crying-financial-statements.jpg" alt="meme 3">
+    <img src="./assets/memes/meme-crying-financial-statements.jpg" alt="meme 6">
   </div>
 </div>
 

@@ -55,13 +55,13 @@ old_project_entries:
      url: /studygram
      desc: sharing my bujo journey
 
-   - title: Keyboard no. 1
-     url: /keyboard-01
-     desc: my first keyboard build
+   - title: Building Keyboards 01 
+     url: /BYOK-Part-01
+     desc: the beginnings... 
 
-   - title: Keyboard no. 2
-     url: /keyboard-02
-     desc: my second keyboard build
+   - title: Building Keyboards 02 
+     url: /BYOK-Part-02
+     desc: further DIY 
 
 
 #  - title: Soopr
