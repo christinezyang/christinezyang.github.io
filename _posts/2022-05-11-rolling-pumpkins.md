@@ -25,7 +25,7 @@ For anyone going through a similar struggle, I hope you find solace soon. We bot
 
 ### What next, again? 
 
-An issue I have with building better habits is that my daily life and interests are constantly changing. Something that works for me (e.g. X minutes of Y per week) may not be optimal a month from now. Thus, the key is not only enrichment, but knowing when to change up the enrichment when necessary. It follows that my theme for the next few months is achieving a healthy level of anti-bored enrichment. To help, I built a [Productivity Menu](https://coda.io/@christine-yang/productivity-menu) page on coda.io, which includes a productivity tracker. Since I also want to read more, I made a [Personal Library](https://coda.io/@christine-yang/personal-library) page as well that has virtual bookshelf and reading log functionality. 
+An issue I have with building better habits is that my daily life and interests are constantly changing. Something that works for me (e.g. X minutes of Y per week) may not be optimal a month from now. Thus, the key is not only enrichment, but knowing when to change up the enrichment when necessary. It follows that my theme for the next few months is achieving a healthy level of anti-bored enrichment. To help, I built a [Productivity Menu](https://coda.io/@christine-yang/productivity-menu) page on coda.io, which includes a productivity tracker. Since I also want to read more, I made a [Personal Library](https://coda.io/@christine-yang/personal-library) page as well that has virtual bookshelf and reading log functionality. (Click on the links to play with them!)
 
 I wish myself luck! 
 
