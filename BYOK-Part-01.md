@@ -3,6 +3,12 @@ layout: post
 title: Build Your Own Keyboard - Part 01
 ---
 
+### Table of Contents
+- [Tofu65](#tofu65), an entry-level 65%
+- [Planck](#planck), a beginner ortholinear 40%
+
+_________________
+
 ## Tofu65 
 
 <img src="./assets/tofu65-1.jpg" alt="tofu65 picture 1">
@@ -76,4 +82,4 @@ Below is a minute-long summary of putting the keyboard together.
 
 ### Conclusion 
 
-It took way less time than expected to get used to the ortholinear keyboard layout, but I am still way slower on it than on the staggered layout. Not only did I have to get used to an ortholinear layout, I also had to get used to using the layers (to type numbers and most symbols) all while on a blank keycap set. Go big or go home. I'm also satisfied with how the switches sound and feel. My favorite part is how portable this keyboard is! 
+It took way less time than expected to get used to the ortholinear keyboard layout, but I am still way slower on it than on the staggered layout. Not only did I have to get used to an ortholinear layout, I also had to get used to using the layers (to type numbers and most symbols) all while on a blank keycap set. Go big or go home. I'm also satisfied with how the Hippo switches sound and feel. My favorite part is how portable this keyboard is! 

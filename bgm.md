@@ -5,11 +5,26 @@ title: Black Girl MATHgic
 
 From January to May 2020, I worked part-time as a general business intern at [Black Girl MATHgic](https://blackgirlmathgic.com/), the first and only math subscription box curated for young Black girls. The purpose of the box is to increase math confidence and decrease math anxiety on a 3rd-8th grade math skill level. 
 
-I primarily worked with [Brittany Rhodes](https://www.linkedin.com/in/brittanyrhodesbgm/), the founder, and [Yoluanda Brown](https://www.linkedin.com/in/yoluandabrown/). As a general intern, I wore many hats, from website analytics to content creation. 
+I primarily worked with [Brittany Rhodes](https://www.linkedin.com/in/brittanyrhodesbgm/), the founder, and [Yoluanda Brown](https://www.linkedin.com/in/yoluandabrown/). As a general intern, I **wore many hats**, from website analytics to content creation. 
+
+### Table of Contents
+- [Website Analytics](#website-analytics)
+  - [Documentation](#documentation)
+- [Website Contributions](#website-contributions)
+ - [Mathematician Hall of Fame](#mathematician-hall-of-fame)
+ - [In the Press](#in-the-press)
+- [Other Duties](#other-duties)
+ - [Social Media](#social-media)
+ - [Sample Posts](#sample-posts)
+  - [Administrative Work](#administrative-work)
+- [Key Takeaways](#key-takeaways)
+- [Tools Used](#tools-used)
+
+_________________
 
 ### Website Analytics 
 
-When I came on the team, Google Analytics was set up for the website, but it wasn't being monitored yet. I quickly self-taught the basics of Analytics and got to work. The team also used WooCommerce which gave some analytics of its own. 
+When I came on the team, Google Analytics was set up for the website, but it wasn't being monitored yet. I **quickly self-taught the basics of Analytics and got to work**. The team also used WooCommerce which gave some analytics of its own. 
 
 The team wanted an easy-to-read spreadsheet that listed important monthly data. Other than that, it was my discretion on how to organize the sheet and what numbers to include. I aggregated the data I found in WooCommerce and Google Analytics and tracked the following: 
 - Channel breakdown (where users came from, e.g. direct, email, etc.)
@@ -20,7 +35,9 @@ The team wanted an easy-to-read spreadsheet that listed important monthly data. 
 
 For 2 months before I joined, there was an issue with Analytics and it did not get any metrics from the site. It was frustrating to see inaccurate data on the sheet, but we made sure to keep that in mind when looking at the metrics. 
 
-At the end of my internship, I created a concise document giving an overview of Google Analytics and how to update the tracker sheets to make it easier for my team to continue after I left. 
+#### Documentation 
+
+At the end of my internship, I **created a concise document** giving an overview of Google Analytics and how to update the tracker sheets to **make it easier for my team to continue after I left**. 
 
 ### Website Contributions 
 
@@ -38,7 +55,7 @@ Previously, there were multiple Google Doc listing all the times we were feature
 
 #### Social Media 
 
-The team brought someone else to take care of content ideas, but I created graphics for the BGM [Instagram](https://www.instagram.com/blackgirlmathgic). We already had templates and a branding kit, but I also liked tweaking the small things to make it look as nice as possible. 
+The team brought someone else to take care of content ideas, but I created graphics for the BGM [Instagram](https://www.instagram.com/blackgirlmathgic). We already had templates and a branding kit, but I also liked **tweaking the small things to make it look as nice as possible**. 
 
 #### Sample Posts 
 
@@ -66,7 +83,7 @@ Since the team was so small, I wanted to help out as much as I could. No task wa
 
 ### Key Takeaways 
 
-I feel honored to be chosen by the BGM team and contribute to the cause. I actually had applied to a different position (writing the solutions manual to each month's workbook), but that went understandably to an experienced teacher. The intern role was created for me because they wanted to bring me on, so I felt even more motivated to contribute as much as possible. I truly learned a lot about the backend of a WOC-led e-commerce business. My team members experienced many life events (from natural disasters to giving birth), but they consistenly showed up, teaching me about resilience. 
+I feel honored to be chosen by the BGM team and contribute to the cause. I actually had applied to a different position (writing the solutions manual to each month's workbook), but that went understandably to an experienced teacher. **The intern role was created for me** because they wanted to bring me on, so I felt even more motivated to contribute as much as possible. I truly learned a lot about the backend of a WOC-led e-commerce business. My team members experienced many life events (from natural disasters to giving birth), but they consistenly showed up -- talk about resilience! 
 
 ### Tools Used 
 - Asana 

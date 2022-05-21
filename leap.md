@@ -13,7 +13,7 @@ My main job was to manage Leap's [Instagram](https://www.instagram.com/leap.work
 
 ### Community and Social Media  
 
-We knew we wanted to focus on potential Gen-Z users applying to internship and new grad positions. Thus, we decided it would be attractive to post clean graphics explaining what we do and relevant memes + captions. At the same time, I made sure to be active in comments, replies, and similar posts made by influencers. 
+We knew we wanted to **focus on potential Gen-Z users** applying to internship and new grad positions. Thus, we decided it would be attractive to post clean graphics explaining what we do and relevant memes + captions. At the same time, I made sure to be active in comments, replies, and similar posts made by influencers. 
 
 To plan out content, I made a Trello board: 
 
