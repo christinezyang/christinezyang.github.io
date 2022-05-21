@@ -310,7 +310,7 @@ ADDRESS
 - Circle tables, four bar seats 
 
 **Vibes:** 🌕🌕🌕🌕🌑
-- Aesthetic: 
+- Aesthetic: lots of plants
 
 **Note:** They have a wide selection of teas, which is great. When this shop was newer, they tasted really good, but later they dropped significantly in quality. It's also always super crowded, probably due to its location. 
 
