@@ -55,13 +55,9 @@ old_project_entries:
      url: /studygram
      desc: sharing my bujo journey
 
-   - title: Built Keyboards Part 1 
-     url: /BYOK-Part-01
-     desc: the beginnings... 
-
-   - title: Built Keyboards Part 2 
-     url: /BYOK-Part-02
-     desc: further DIY 
+   - title: Mech Keyboards 
+     url: /BYOK
+     desc: build your own!
 
 #  - title: Soopr
 #    url: https://www.soopr.co
