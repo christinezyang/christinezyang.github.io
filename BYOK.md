@@ -91,7 +91,7 @@ It took way less time than expected to get used to the ortholinear keyboard layo
 
 (Pictures coming soon!)
 
-- Satisfaction75 Keyboard Kit ([CustomMK](https://shop.custommk.com/collections/evo70/products/evo70))
+- Satisfaction75 Keyboard Kit ([CannonKeys](https://cannonkeys.com/collections/satisfaction-75))
    - Seaweed Green case color 
    - brass plate 
 - Tecsee Coffee Chip Ice Cream Tactile switches ([CannonKeys](https://cannonkeys.com/products/coffee-chip-ice-cream-switch))
@@ -115,7 +115,7 @@ This keyboard is my first one with a mini-OLED screen and rotary encoder. Are th
 <br>
 <img src="./assets/evo70-2.jpg" alt="evo70 picture 2"> 
 
-- EVO70 Keyboard Kit, B Stock ([CannonKeys](https://cannonkeys.com/collections/satisfaction-75))
+- EVO70 Keyboard Kit, B Stock ([CustomMK](https://shop.custommk.com/collections/evo70/products/evo70))
    - Aluminum/Acrylic material, E-white color
 - Prevail Epsilon switches ([Prevail Key Co](https://prevailkeyco.com/products/prevail-epsilon-switches))
 - Owlstab V2 screw-in stabilizers ([Qwertykeys](https://www.qwertykeys.com/products/owlstab-beta-ver-2-updating))
