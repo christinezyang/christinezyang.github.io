@@ -111,7 +111,7 @@ This keyboard is my first one with a mini-OLED screen and rotary encoder. Are th
 
 ## 💙 EVO70 
 
-<img src="./assets/evo70-1.png" alt="evo70 picture 1">
+<img src="./assets/evo70-1.jpg" alt="evo70 picture 1">
 <br>
 <img src="./assets/evo70-2.jpg" alt="evo70 picture 2"> 
 
