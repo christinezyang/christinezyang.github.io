@@ -7,11 +7,12 @@ title: Build Your Own Keyboard - Part 01
 - [Tofu65](#tofu65), an entry-level 65%
 - [Planck](#planck), a beginner ortholinear 40%
 - [Satisfaction75](#satisfaction75), an extremely hyped 75% 
+- [EVO70](#evo70), a fantastic 70%
 - [Mercutio](#mercutio), a nifty through-hole 40%
 
 _________________
 
-## Tofu65 
+## 🐈 Tofu65 
 
 <img src="./assets/tofu65-1.jpg" alt="tofu65 picture 1">
 <br>
@@ -24,8 +25,8 @@ _________________
    - Tribosys 3203 lubricant ([Divinikey](https://divinikey.com/products/tribosys-3203-switch-lubricant))
 - Durock V2 screw-in stabilizers ([Divinikey](https://divinikey.com/products/durock-v2-stabilizers-screw-in))
    - Krytox 205G0 lubricant ([Divinikey](https://divinikey.com/products/krytox-gpl-205-grade-0-switch-lubricant))
-- Cherry Sand PBT Dye-Sub keycaps, Cherry profile ([NovelKeys](https://novelkeys.com/products/cherry-sand))
-- Bulba-san artisan keycap ([Karakuri Caps](https://www.instagram.com/karakuri.caps/))
+- GMK Pono keycaps, Cherry profile (bought unsealed from [r/mechmarket](https://www.reddit.com/r/mechmarket/))
+   - included the RAMA x Gray Kitty metal artisan 
 
 ### The Process 
 
@@ -58,7 +59,7 @@ The last thing to do is put all the pieces together! I didn't take a video of th
 
 I am extremely satisfied with my first keyboard build. I chose a 65% layout because I felt like it was the perfect balance of convenience. It has silent switches, so I don't have to worry about annoying everyone at the library. Next time, I hope to experiment with linear switches. The only thing I dislike is how heavy it is (although I believe it is a "normal" weight for a good mechanical keyboard). 
 
-## Planck 
+## 👨‍🔬 Planck 
 
 <img src="./assets/planck-1.jpg" alt="planck picture 1">
 <br>
@@ -86,11 +87,11 @@ Below is a minute-long summary of putting the keyboard together.
 
 It took way less time than expected to get used to the ortholinear keyboard layout, but I am still way slower on it than on the staggered layout. Not only did I have to get used to an ortholinear layout, I also had to get used to using the layers (to type numbers and most symbols) all while on a blank keycap set. Go big or go home. I'm also satisfied with how the Hippo switches sound and feel. My favorite part is how portable this keyboard is! 
 
-## Satisfaction75  
+## 🍵 Satisfaction75  
 
 (Pictures coming soon!)
 
-- Satisfaction75 Keyboard Kit, B Stock ([CannonKeys](https://cannonkeys.com/collections/satisfaction-75))
+- Satisfaction75 Keyboard Kit ([CustomMK](https://shop.custommk.com/collections/evo70/products/evo70))
    - Seaweed Green case color 
    - brass plate 
 - Tecsee Coffee Chip Ice Cream Tactile switches ([CannonKeys](https://cannonkeys.com/products/coffee-chip-ice-cream-switch))
@@ -102,14 +103,32 @@ It took way less time than expected to get used to the ortholinear keyboard layo
 
 When the Sat75 extras drop was announced by CannonKeys, I literally blocked the time on my calendar. Luckily, I have experience registering for classes. At exactly 11am, I joined the waitlist and was randomly selected to snag a B-stock kit. To be honest, I only notice the tiniest of blemishes if I *really* look for them, so I think it's a great value. 
 
-To build it, I used the soldering iron at Duke's [Co-lab](https://colab.duke.edu/). I paid tuition, so might as well go use it at least once. This was the first time in my life that I did anything remotely hands-on DIY, much less handling an 800-degree small metal melter. Turns out soldering wasn't that hard, so I got a handle of it quite quickly. 
+To build it, I used the soldering iron at Duke's [Co-lab](https://colab.duke.edu/) -- I paid tuition, so might as well go use it at least once. This was the first time in my life that I did anything remotely hands-on DIY, much less handling an 800-degree small metal melter. 
 
 ### OLED and Rotary Knob 
 
-This keyboard is my first one with a mini-OLED screen and rotary encoder. Are they really useful, or just hyped gimmicks? My answer is: both. But who cares? It sparks so much joy[^1] to see what layer you're on or changing the volume with a rotation. Of course, I installed (an open-source) [Bongo Cat](https://github.com/atude/sat75-oled-mods) for the OLED: 
+This keyboard is my first one with a mini-OLED screen and rotary encoder. Are they really useful, or just hyped gimmicks? My answer is: both. But who cares? It sparks so much joy[^1] to see what layer you're on or changing your music's volume with a rotation. Of course, I installed (an open-source) [Bongo Cat](https://github.com/atude/sat75-oled-mods) for the OLED. 
 
+## 💙 EVO70 
 
-## Mercutio 
+<img src="./assets/evo70-1.jpg" alt="evo70 picture 1">
+<br>
+<img src="./assets/evo70-2.jpg" alt="evo70 picture 2"> 
+
+- EVO70 Keyboard Kit, B Stock ([CannonKeys](https://cannonkeys.com/collections/satisfaction-75))
+   - Aluminum/Acrylic material, E-white color
+- Prevail Epsilon switches ([Prevail Key Co](https://prevailkeyco.com/products/prevail-epsilon-switches))
+- Owlstab V2 screw-in stabilizers ([Qwertykeys](https://www.qwertykeys.com/products/owlstab-beta-ver-2-updating))
+   - Krytox 205G0 lubricant ([Divinikey](https://divinikey.com/products/krytox-gpl-205-grade-0-switch-lubricant)) 
+- PBT Raw keycaps, designed by [biip](https://www.instagram.com/biipmk) ([NovelKeys](https://novelkeys.com/products/cherry-raw))
+
+### Group Buys 
+
+This is the first keyboard group buy[^2] I joined (instead of buying in-stock options like the ones above), and the team behind [CustomMK](https://shop.custommk.com/), the creators of this board, couldn't have made it a better experience. Not to mention, it was extremely affordable in the first place. I joined the group buy in August 2021 and received the kit in June 2022. 
+
+I immediately loved this board as soon as I took it out of the box. I can't get over how great it looks and sounds, and the keycaps set just seals the deal. 
+
+## 🧪 Mercutio 
 
 Coming soon! 
 
@@ -120,5 +139,10 @@ Planned build:
    - Krytox 205G0 lubricant ([Divinikey](https://divinikey.com/products/krytox-gpl-205-grade-0-switch-lubricant))
 - Owlstab V2 screw-in stabilizers ([Qwertykeys](https://www.qwertykeys.com/products/owlstab-beta-ver-2-updating))
    - Krytox 205G0 lubricant ([Divinikey](https://divinikey.com/products/krytox-gpl-205-grade-0-switch-lubricant)) 
+- ??? keycaps
+
+_________________
 
 [^1]: See my [blog](./2022-05-11-rolling-pumpkins) post on doing small things to make you slightly happier. 
+
+[^2]: A keyboard group buy is basically a pre-order. Many of these keyboards are made-to-order. See [this site](https://www.keyboard.university/100-courses/group-buy-335xl) for more info. 

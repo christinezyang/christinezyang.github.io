@@ -3,7 +3,7 @@ layout: post
 title: Where to Work Near-ish Duke Campus, Ranked Masterlist  
 ---
 
-If there's one thing I'm gatekeep-y about, it's finding local cafes before everyone else I know does. Now that I've graduated Duke, I decided it's time to share my amassed knowledge and opinions (and anecdotes no one asked for). At the end of this post, check out what I think is the BEST cafe to do work! Note: this guide is focused on which cafes are the best to ***be productive*** at, whiuch may or may not be the best place to eat/drink/catch up with an estranged friend. 
+If there's one thing I'm gatekeep-y about, it's finding local cafes before everyone else I know does. Now that I've graduated Duke, I decided it's time to share my amassed knowledge and opinions (and anecdotes no one asked for). At the end of this post, check out what I think is the BEST cafe to do work! Note: this guide is focused on which cafes are the best to ***be productive*** at. 
 
 ### Disclaimer 
 

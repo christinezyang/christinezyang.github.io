@@ -13,7 +13,6 @@ project_entries:
   - title: Riva
     url: /riva
     desc: supercharging salary negotiations
-    highlight: NEW
 
   - title: Leap Careers
     url: /leap
@@ -58,6 +57,7 @@ old_project_entries:
    - title: Mech Keyboards 
      url: /BYOK
      desc: build your own!
+     highlight: NEW
 
 #  - title: Soopr
 #    url: https://www.soopr.co
