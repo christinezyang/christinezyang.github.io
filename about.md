@@ -3,14 +3,14 @@ layout: post
 title: About
 ---
 
-Hi! I'm Christine Yang, a senior at Duke University studying a double major in mathematics and philosophy. I'm from Short Hills, NJ, but I currently live in Morristown, NJ. 
+Hi! I'm Christine Yang, a recent grad at Duke University, where I studied mathematics and philosophy. I'm from Short Hills, NJ, but I currently live in Morristown, NJ. 
 
 ### Currently Reading 
 - *Snow Country* by Yasunari Kawabata, trans. Edward G. Seidensticker 
-- *The Divine Comedy* by Dante Alighieri, trans. Allen Mandelbaum
+- *Roadside Picnic* by Arkady Strugatsky and Brois Strugatsky, trans. Olena Bormashenko
 
 ### Fun Facts
-- 420+ day streak on Duolingo 
+- 500+ day streak on Duolingo 
 - shortest Solitaire time is 31s
 - once spent a day in China picking up panda droppings 
 
