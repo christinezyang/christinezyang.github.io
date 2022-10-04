@@ -7,10 +7,10 @@ Hi! I'm Christine Yang, a recent grad at Duke University, where I studied mathem
 
 ### Currently Reading 
 - *Snow Country* by Yasunari Kawabata, trans. Edward G. Seidensticker 
-- *Roadside Picnic* by Arkady Strugatsky and Brois Strugatsky, trans. Olena Bormashenko
+- *The World According to Garp* by John Irving
 
 ### Fun Facts
-- 500+ day streak on Duolingo 
+- 600+ day streak on Duolingo 
 - shortest Solitaire time is 31s
 - once spent a day in China picking up panda droppings 
 
