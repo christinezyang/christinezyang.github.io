@@ -89,7 +89,9 @@ It took way less time than expected to get used to the ortholinear keyboard layo
 
 ## 🍵 Satisfaction75  
 
-(Pictures coming soon!)
+<img src="./assets/sat75-1.jpg" alt="sat75 picture 1">
+<br>
+<img src="./assets/sat75-2.jpg" alt="sat75 picture 2">
 
 - Satisfaction75 Keyboard Kit ([CannonKeys](https://cannonkeys.com/collections/satisfaction-75))
    - Seaweed Green case color 
@@ -98,6 +100,7 @@ It took way less time than expected to get used to the ortholinear keyboard layo
    - Tribosys 3203 lubricant ([Divinikey](https://divinikey.com/products/tribosys-3203-switch-lubricant))
 - Owlstab V2 screw-in stabilizers ([Qwertykeys](https://www.qwertykeys.com/products/owlstab-beta-ver-2-updating))
    - Krytox 205G0 lubricant ([Divinikey](https://divinikey.com/products/krytox-gpl-205-grade-0-switch-lubricant)) 
+- Osume Matcha keycaps, cafe novelty kit and metal artisan ([Osume](https://www.osumekeys.com/product/matcha))
 
 ### The Process 
 
