@@ -3,7 +3,7 @@ layout: post
 title: Why I Mark Up My Books 
 ---
 
-In 8th grade, I tried writing in my copy of The Old Man and the Sea because I thought my teacher’s annotated version looked cool. Unfortunately, my handwriting didn’t turn out to be perfectly consistent, and I couldn’t bear looking at it, so I erased it all after only a page. 
+In 8th grade, I tried writing in my copy of *The Old Man and the Sea* because I thought my teacher’s annotated version looked cool. Unfortunately, my handwriting didn’t turn out to be perfectly consistent, and I couldn’t bear looking at it, so I erased it all after only a page. 
 
 That’s how I always used to keep my books - pristine - that meant no folds, notes, underlines, highlights, or anything else. Part of this desire was fed by some sense of perfectionism: if it wasn’t a perfectly straight line of highlight, or a perfect annotation, then it couldn’t be included at all. Since it’s impossible to make it all perfect, the fear of ugly margin notes and crooked lines kept me from marking up my books. Furthermore, I felt like the value decreased if I didn’t keep it clean.[^1] 
 

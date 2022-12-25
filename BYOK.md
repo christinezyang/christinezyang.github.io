@@ -7,7 +7,8 @@ title: Build Your Own Keyboard - Part 01
 - [Tofu65](#tofu65), an entry-level 65%
 - [Planck](#planck), a beginner ortholinear 40%
 - [Satisfaction75](#satisfaction75), an extremely hyped 75% 
-- [EVO70](#evo70), a fantastic 70%
+- [EVO70](#evo70), a fantastic 70% 
+- [S46](#s46), a bluetooth 40% 
 - [Mercutio](#mercutio), a nifty through-hole 40%
 
 _________________
@@ -130,6 +131,20 @@ This keyboard is my first one with a mini-OLED screen and rotary encoder. Are th
 This is the first keyboard group buy[^2] I joined (instead of buying in-stock options like the ones above), and the team behind [CustomMK](https://shop.custommk.com/), the creators of this board, couldn't have made it a better experience. Not to mention, it was extremely affordable in the first place. I joined the group buy in August 2021 and received the kit in June 2022. 
 
 I immediately loved this board as soon as I took it out of the box. I can't get over how great it looks and sounds, and the keycaps set just seals the deal. 
+
+## 🌊 S46 
+
+<img src="./assets/sam46-1.jpg" alt="sam46 picture 1">
+<br>
+<img src="./assets/sam46-2.jpg" alt="sam46 picture 2"> 
+ 
+- S46 Keyboard Kit ([SAM](https://notfromsam.com/products/s46-custom-kit))
+   - dark blue kit 
+- Ajazz Diced Fruit Kiwi switches ([Epomaker](https://epomaker.com/products/epomaker-ajazz-diced-fruit-switch?variant=39425941471305))
+   - Tribosys 3203 lubricant ([Divinikey](https://divinikey.com/products/tribosys-3203-switch-lubricant))
+- Owlstab V2 screw-in stabilizers ([Qwertykeys](https://www.qwertykeys.com/products/owlstab-beta-ver-2-updating))
+   - Krytox 205G0 lubricant ([Divinikey](https://divinikey.com/products/krytox-gpl-205-grade-0-switch-lubricant)) 
+- KAT Atlantis keycaps ([CannonKeys](https://cannonkeys.com/products/gb-kat-atlantis))
 
 ## 🧪 Mercutio 
 
