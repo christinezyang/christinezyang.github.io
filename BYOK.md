@@ -115,11 +115,11 @@ This keyboard is my first one with a mini-OLED screen and rotary encoder. Are th
 
 ## 💙 EVO70 
 
-<img src="https://christineyang.co/assets/evo70-1.jpg" alt="evo70 picture 1">
+<img src="https://christineyang.co/assets/evo70-1.JPG" alt="evo70 picture 1">
 <br>
-<img src="./assets/evo70-2.jpg" alt="evo70 picture 2"> 
+<img src="./assets/evo70-2.JPG" alt="evo70 picture 2"> 
 
-qwer
+zxcv
 
 - EVO70 Keyboard Kit, B Stock ([CustomMK](https://shop.custommk.com/collections/evo70/products/evo70))
    - Aluminum/Acrylic material, E-white color
