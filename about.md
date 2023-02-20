@@ -6,11 +6,12 @@ title: About
 Hi! I'm Christine Yang, a recent grad at Duke University, where I studied mathematics and philosophy. I'm from Short Hills, NJ, but I currently live in Morristown, NJ. 
 
 ### Currently Reading 
-- *Snow Country* by Yasunari Kawabata, trans. Edward G. Seidensticker 
-- *The World According to Garp* by John Irving
+- *A Little Life* by Hanya Yanagihara
+
+Check out my personal [virtual library](https://coda.io/@christine-yang/personal-library).  
 
 ### Fun Facts
-- 600+ day streak on Duolingo 
+- 700+ day streak on Duolingo 
 - shortest Solitaire time is 31s
 - once spent a day in China picking up panda droppings 
 
