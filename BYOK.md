@@ -119,8 +119,6 @@ This keyboard is my first one with a mini-OLED screen and rotary encoder. Are th
 <br>
 <img src="./assets/evo70-2.JPG" alt="evo70 picture 2"> 
 
-asdf
-
 - EVO70 Keyboard Kit, B Stock ([CustomMK](https://shop.custommk.com/collections/evo70/products/evo70))
    - Aluminum/Acrylic material, E-white color
 - Prevail Epsilon switches ([Prevail Key Co](https://prevailkeyco.com/products/prevail-epsilon-switches))
@@ -136,9 +134,11 @@ I immediately loved this board as soon as I took it out of the box. I can't get 
 
 ## 🌊 S46 
 
-<img src="./assets/sam46-1.jpg" alt="sam46 picture 1">
+<img src="./assets/sam46-1.JPG" alt="sam46 picture 1">
 <br>
-<img src="./assets/sam46-2.jpg" alt="sam46 picture 2"> 
+<img src="./assets/sam46-2.JPG" alt="sam46 picture 2"> 
+
+asdf
  
 - S46 Keyboard Kit ([SAM](https://notfromsam.com/products/s46-custom-kit))
    - dark blue kit 
