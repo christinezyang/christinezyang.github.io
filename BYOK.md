@@ -137,8 +137,6 @@ I immediately loved this board as soon as I took it out of the box. I can't get 
 <img src="./assets/sam46-1.JPG" alt="sam46 picture 1">
 <br>
 <img src="./assets/sam46-2.JPG" alt="sam46 picture 2"> 
-
-asdf
  
 - S46 Keyboard Kit ([SAM](https://notfromsam.com/products/s46-custom-kit))
    - dark blue kit 
