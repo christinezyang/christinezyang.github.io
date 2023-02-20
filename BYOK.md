@@ -119,6 +119,8 @@ This keyboard is my first one with a mini-OLED screen and rotary encoder. Are th
 <br>
 <img src="../assets/evo70-2.jpg" alt="evo70 picture 2"> 
 
+hi
+
 - EVO70 Keyboard Kit, B Stock ([CustomMK](https://shop.custommk.com/collections/evo70/products/evo70))
    - Aluminum/Acrylic material, E-white color
 - Prevail Epsilon switches ([Prevail Key Co](https://prevailkeyco.com/products/prevail-epsilon-switches))
