@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Let the Pumpkins Roll
-# description: ""
 date: 2022-05-11
 tags: [duke, mental]
 comments: true
-share: true
 ---
 
 I know all of you have been eagerly waiting for a new blog post, so here it is. I'd like to write more casual pieces for my blog as well. The context for today is: for a good amount of my last semester at Duke, I went through a serious slump and depressive episode. This article describes part of my journey getting out of that and future outlook. 
@@ -22,7 +20,7 @@ It's obvious that a lack of enrichment can make depressive feelings worse. In th
 
 The keywords are "less-negative feeling," meaning whatever you do doesn't have to bring yourself to an absolute positive feeling, but rather it's enough to have it be net positive. One example is when I bought this knit frog airpods case: 
 
-<img src="./assets/images/frog-airpods-case.jpg" alt="frog airpods case">
+<img src="./images/images/frog-airpods-case.jpg" alt="frog airpods case">
 
 It looks absolutely ridiculous, and that made me feel the tiniest bit better to see it on my desk. Other examples include keeping at least one thing going (in my case, my Duolingo streak), or appreciating seeing a bee buzz around the flowers on campus. 
 
@@ -46,24 +44,24 @@ I wish myself luck!
 
 <div class="row">
   <div class="column">
-    <img src="./assets/memes/meme-stupid-walk.jpg" alt="meme 1">
+    <img src="./images/images/memes/meme-stupid-walk.jpg" alt="meme 1">
   </div>
   <div class="column">
-    <img src="./assets/memes/meme-kirby-fishing.jpg" alt="meme 2">
+    <img src="./images/images/memes/meme-kirby-fishing.jpg" alt="meme 2">
   </div>
   <div class="column">
-    <img src="./assets/memes/meme-dinos-existence-battle.jpg" alt="meme 3">
+    <img src="./images/images/memes/meme-dinos-existence-battle.jpg" alt="meme 3">
   </div>
 </div>
 <div class="row">
   <div class="column">
-    <img src="./assets/images/memes/meme-uniquely-horrible-some-guy.jpg" alt="meme 4">
+    <img src="./images/images/memes/meme-uniquely-horrible-some-guy.jpg" alt="meme 4">
   </div>
   <div class="column">
-    <img src="./assets/images/memes/meme-sonic-clown-salary.jpg" alt="meme 5">
+    <img src="./images/images/memes/meme-sonic-clown-salary.jpg" alt="meme 5">
   </div>
   <div class="column">
-    <img src="./assets/images/memes/meme-jaded-human-experience.jpg" alt="meme 6">
+    <img src="./images/images/memes/meme-jaded-human-experience.jpg" alt="meme 6">
   </div>
 </div> 
 
