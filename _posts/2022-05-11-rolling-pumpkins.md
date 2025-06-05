@@ -42,28 +42,8 @@ I wish myself luck!
 
 ### Relevant Memes 
 
-<div class="row">
-  <div class="column">
-    <img src="../images/images/memes/meme-stupid-walk.jpg" alt="meme 1">
-  </div>
-  <div class="column">
-    <img src="../images/images/memes/meme-kirby-fishing.jpg" alt="meme 2">
-  </div>
-  <div class="column">
-    <img src="../images/images/memes/meme-dinos-existence-battle.jpg" alt="meme 3">
-  </div>
-</div>
-<div class="row">
-  <div class="column">
-    <img src="../images/images/memes/meme-uniquely-horrible-some-guy.jpg" alt="meme 4">
-  </div>
-  <div class="column">
-    <img src="../images/images/memes/meme-sonic-clown-salary.jpg" alt="meme 5">
-  </div>
-  <div class="column">
-    <img src="../images/images/memes/meme-jaded-human-experience.jpg" alt="meme 6">
-  </div>
-</div> 
+![meme 1](../images/images/memes/meme-stupid-walk.jpg) ![meme 2](../images/images/memes/meme-kirby-fishing.jpg) ![meme 3](../images/images/memes/meme-dinos-existence-battle.jpg) 
+![meme 4](../images/images/memes/meme-uniquely-horrible-some-guy.jpg) ![meme 5](../images/images/memes/meme-sonic-clown-salary.jpg) ![meme 6](../images/images/memes/meme-jaded-human-experience.jpg) 
 
 ---
 
