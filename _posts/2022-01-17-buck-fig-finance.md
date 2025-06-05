@@ -66,8 +66,21 @@ For most of college I had an answer to the terrifying question, "What do you wan
 
 ### Relevant Memes 
 
-![meme 1](../images/images/memes/meme-business-bus.jpg) ![meme 2](../images/images/memes/meme-halloween-hired.jpg) ![meme 3](../images/images/memes/meme-tired-ape-shit.jpg) 
-![meme 4](../images/images/memes/meme-excel-no-one-cares.jpg) ![meme 5](../images/images/memes/meme-unrecognized-talent.jpg) ![meme 6](../images/images/memes/meme-crying-financial-statements.jpg) 
+<p align="center">
+  <img alt="meme 1" src="../images/images/memes/meme-business-bus.jpg" width=300>
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="meme 2" src="../images/images/memes/meme-halloween-hired.jpg" width=300>
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="meme 3" src="../images/images/memes/meme-tired-ape-shit.jpg" width=300>
+</p>
+
+<p align="center">
+  <img alt="meme 4" src="../images/images/memes/meme-excel-no-one-cares.jpg" width=300>
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="meme 5" src="../images/images/memes/meme-unrecognized-talent.jpg" width=300>
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="meme 6" src="../images/images/memes/meme-crying-financial-statements.jpg" width=300>
+</p>
 
 ---
 
