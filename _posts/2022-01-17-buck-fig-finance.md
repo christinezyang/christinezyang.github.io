@@ -1,11 +1,9 @@
 ---
 layout: post
 title: "Buck Fig Finance, or Why I Caused My Own Senior Year Crisis" 
-# description: ""
 date: 2022-01-17
-tags: [duke, job]
+tags: [duke]
 comments: true
-share: true
 ---
 
 I'm in my last year of college. The previous semester, after disliking my summer internship experience in finance, I spent a lot of time working through a latent crisis brewing under all my efforts to enjoy my final school year. Nearly all my friends have accepted return offers, while I am still unemployed. I carefully considered what I wanted to do, no --- what I even *could* do for a job that could take up half of my waking hours. This post details how, after 3 years of being committed to finance, I suddenly decided to take a different path. 
