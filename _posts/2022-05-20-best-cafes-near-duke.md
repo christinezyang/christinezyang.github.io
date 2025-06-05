@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where to Work Near-ish Duke Campus, Ranked Masterlist 
+title: "Where to Work Near-ish Duke Campus, Ranked Masterlist"
 date: 2022-05-20
 tags: [duke]
 comments: true
