@@ -1,7 +1,6 @@
 ---
 layout: post
 title: My Internship at Leap 
-# description: "Test post for style"
 date: 2022-09-08
 tags: [internship, duke]
 comments: false 
