@@ -3,9 +3,8 @@ layout: post
 title: My Internship at Leap 
 # description: "Test post for style"
 date: 2022-09-08
-tags: [internship]
+tags: [internship, duke]
 comments: false 
-share: false 
 ---
 
 From November 2021 to January 2022, I worked part-time as a community manager intern at [Leap](https://leap.work), a startup I got to know through Duke alum [Francesca Tang](https://frtang.mycpanel.princeton.edu/). Leap is committed to making transparency the foundation of hiring. With a free account, users can 
@@ -22,7 +21,7 @@ We knew we wanted to **focus on potential Gen-Z users** applying to internship a
 
 To plan out content, I made a Trello board: 
 
-<img src="./assets/images/leap-trello.png" alt="leap trello board">
+<img src="../images/images/leap-trello.png" alt="leap trello board">
 
 ### Sample Posts 
 
