@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Where to Work Near-ish Duke Campus, Ranked Masterlist 
-# description: ""
 date: 2022-05-20
 tags: [duke]
 comments: true
-share: true
 ---
 
 If there's one thing I'm gatekeep-y about, it's finding local cafes before everyone else I know does. Now that I've graduated Duke, I decided it's time to share my amassed knowledge and opinions (and anecdotes no one asked for). At the end of this post, check out what I think is the BEST cafe to do work! Note: this guide is focused on which cafes are the best to ***be productive*** at. 
@@ -14,7 +12,7 @@ If there's one thing I'm gatekeep-y about, it's finding local cafes before every
 
 All the places mentioned below are local places (i.e. not a certain franchise that begins with ⭐). I strongly encourage the reader to check them out in person and form your own thoughts about them. At the same time, you can support some cool local businesses! Relevant sign I found in Miami: 
 
-<img src="./assets/images/cafes-near-duke/friendsdontletfriends.jpg" alt="friends don't let friends drink corporate coffee" width=300>
+<img src="./images/images/cafes-near-duke/friendsdontletfriends.jpg" alt="friends don't let friends drink corporate coffee" width=300>
 <p align="center">
     <sup><sub>I am literally begging you to stop going to Starbucks</sub></sup>
 </p>
@@ -90,10 +88,10 @@ Durham Food Hall, 530 Foster St Suite 1, Durham, NC 27701 //
 
 <div class="row">
   <div class="bicolumn">
-    <img src="./assets/images/cafes-near-duke/press1.jpg" alt="Press picture 1">
+    <img src="./images/images/cafes-near-duke/press1.jpg" alt="Press picture 1">
   </div>
   <div class="bicolumn">
-    <img src="./assets/images/cafes-near-duke/press2.jpg" alt="Press picture 2">
+    <img src="./images/images/cafes-near-duke/press2.jpg" alt="Press picture 2">
   </div>
 </div>
 
@@ -113,7 +111,7 @@ Durham Food Hall, 530 Foster St Suite 1, Durham, NC 27701 //
 
 ### 💗 Heirloom Coffee Tea Kitchen 
 
-<img src="./assets/images/cafes-near-duke/heirloom1.jpg" alt="Heirloom picture 1">
+<img src="./images/images/cafes-near-duke/heirloom1.jpg" alt="Heirloom picture 1">
 
 219 S West St, Raleigh, NC 27603 // 
 [website](https://www.heirloombrewshop.com/), [instagram](https://www.instagram.com/heirloombrewshop/) 
@@ -225,7 +223,7 @@ Durham Food Hall, 530 Foster St Suite 1, Durham, NC 27701 //
 
 ### 👥 People's Coffee 
 
-<img src="./assets/images/cafes-near-duke/peoplescoffee1.jpg" alt="People's Coffee picture 1">
+<img src="./images/images/cafes-near-duke/peoplescoffee1.jpg" alt="People's Coffee picture 1">
 
 7831 NC Highway 751, Suite 100, Durham, NC 27713 // 
 [website](https://www.pplscoffee.com/), [instagram](https://www.instagram.com/pplscoffee/), [facebook](https://www.facebook.com/pplscoffee/) 
@@ -327,13 +325,13 @@ ADDRESS
 
 <div class="row">
   <div class="column">
-    <img src="./assets/images/cafes-near-duke/fount1.jpg" alt="Fount picture 1">
+    <img src="./images/images/cafes-near-duke/fount1.jpg" alt="Fount picture 1">
   </div>
   <div class="column">
-    <img src="./assets/images/cafes-near-duke/fount2.jpg" alt="Fount picture 2">
+    <img src="./images/images/cafes-near-duke/fount2.jpg" alt="Fount picture 2">
   </div>
   <div class="column">
-    <img src="./assets/images/cafes-near-duke/fount3.jpg" alt="Fount picture 3">
+    <img src="./images/images/cafes-near-duke/fount3.jpg" alt="Fount picture 3">
   </div>
 </div>
 
