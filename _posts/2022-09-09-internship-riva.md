@@ -1,12 +1,9 @@
 ---
 layout: post
-title: My Internship at Riva 
-title: "A Full and Comprehensive Style Test"
-# description: "Test post for style"
+title: "My Internship at Riva" 
 date: 2022-09-09
-tags: [internship]
+tags: [internship, duke]
 comments: false
-share: false
 ---
 
 During my last semester of college, I worked part-time at [Riva](https://www.rivahq.com/), a salary negotiations startup. I worked with the CEO [Ben Cook](https://www.linkedin.com/in/ben--cook/), who is a Duke alum. 
