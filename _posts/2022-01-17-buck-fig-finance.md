@@ -70,24 +70,24 @@ For most of college I had an answer to the terrifying question, "What do you wan
 
 <div class="row">
   <div class="column">
-    <img src="./assets/images/memes/meme-business-bus.jpg" alt="meme 1">
+    <img src="./images/images/memes/meme-business-bus.jpg" alt="meme 1">
   </div>
   <div class="column">
-    <img src="./assets/images/memes/meme-halloween-hired.jpg" alt="meme 2">
+    <img src="./images/images/memes/meme-halloween-hired.jpg" alt="meme 2">
   </div>
   <div class="column">
-    <img src="./assets/images/memes/meme-tired-ape-shit.jpg" alt="meme 3">
+    <img src="./images/images/memes/meme-tired-ape-shit.jpg" alt="meme 3">
   </div>
 </div>
 <div class="row">
   <div class="column">
-    <img src="./assets/images/memes/meme-excel-no-one-cares.jpg" alt="meme 4">
+    <img src="./images/images/memes/meme-excel-no-one-cares.jpg" alt="meme 4">
   </div>
   <div class="column">
-    <img src="./assets/images/memes/meme-unrecognized-talent.jpg" alt="meme 5">
+    <img src="./images/images/memes/meme-unrecognized-talent.jpg" alt="meme 5">
   </div>
   <div class="column">
-    <img src="./assets/images/memes/meme-crying-financial-statements.jpg" alt="meme 6">
+    <img src="./images/images/memes/meme-crying-financial-statements.jpg" alt="meme 6">
   </div>
 </div>
 
