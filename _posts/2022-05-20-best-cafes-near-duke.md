@@ -12,10 +12,9 @@ If there's one thing I'm gatekeep-y about, it's finding local cafes before every
 
 All the places mentioned below are local places (i.e. not a certain franchise that begins with ⭐). I strongly encourage the reader to check them out in person and form your own thoughts about them. At the same time, you can support some cool local businesses! Relevant sign I found in Miami: 
 
-<img src="./images/images/cafes-near-duke/friendsdontletfriends.jpg" alt="friends don't let friends drink corporate coffee" width=300>
-<p align="center">
-    <sup><sub>I am literally begging you to stop going to Starbucks</sub></sup>
-</p>
+![friends don't let friends drink corporate coffee](../images/images/cafes-near-duke/friendsdontletfriends.jpg)
+
+(I am literally begging you to stop going to Starbucks)
 
 All photos are taken by me. The vibes rating is entirely my opinion, which may not mirror yours. 
 
@@ -86,14 +85,7 @@ Durham Food Hall, 530 Foster St Suite 1, Durham, NC 27701 //
 
 ### 📰 Press Coffee Crêpes Cocktails
 
-<div class="row">
-  <div class="bicolumn">
-    <img src="../images/images/cafes-near-duke/press1.jpg" alt="Press picture 1">
-  </div>
-  <div class="bicolumn">
-    <img src="../images/images/cafes-near-duke/press2.jpg" alt="Press picture 2">
-  </div>
-</div>
+![Press picture 1](../images/images/cafes-near-duke/press1.jpg) ![Press picture 2](../images/images/cafes-near-duke/press2.jpg) 
 
 359 Blackwell Street, Durham, NC 27701 // 
 [website](https://pressccc.com/), [instagram](https://www.instagram.com/presscccdurham/) 
@@ -111,7 +103,7 @@ Durham Food Hall, 530 Foster St Suite 1, Durham, NC 27701 //
 
 ### 💗 Heirloom Coffee Tea Kitchen 
 
-<img src="../images/images/cafes-near-duke/heirloom1.jpg" alt="Heirloom picture 1">
+![Heirloom picture 1](../images/images/cafes-near-duke/heirloom1.jpg) 
 
 219 S West St, Raleigh, NC 27603 // 
 [website](https://www.heirloombrewshop.com/), [instagram](https://www.instagram.com/heirloombrewshop/) 
@@ -223,7 +215,7 @@ Durham Food Hall, 530 Foster St Suite 1, Durham, NC 27701 //
 
 ### 👥 People's Coffee 
 
-<img src="../images/images/cafes-near-duke/peoplescoffee1.jpg" alt="People's Coffee picture 1">
+![People's Coffee picture 1](../images/images/cafes-near-duke/peoplescoffee1.jpg)
 
 7831 NC Highway 751, Suite 100, Durham, NC 27713 // 
 [website](https://www.pplscoffee.com/), [instagram](https://www.instagram.com/pplscoffee/), [facebook](https://www.facebook.com/pplscoffee/) 
@@ -323,21 +315,10 @@ ADDRESS
 
 ### ⛲ Fount Coffee + Kitchen 
 
-<div class="row">
-  <div class="column">
-    <img src="../images/images/cafes-near-duke/fount1.jpg" alt="Fount picture 1">
-  </div>
-  <div class="column">
-    <img src="../images/images/cafes-near-duke/fount2.jpg" alt="Fount picture 2">
-  </div>
-  <div class="column">
-    <img src="../images/images/cafes-near-duke/fount3.jpg" alt="Fount picture 3">
-  </div>
-</div>
+![Fount picture 1](../images/images/cafes-near-duke/fount1.jpg) ![Fount picture 2](../images/images/cafes-near-duke/fount2.jpg) ![Fount picture 3](../images/images/cafes-near-duke/fount3.jpg) 
 
 10954 Chapel Hill Rd Ste 109, Morrisville, NC 27560 // 
 [website](https://fountcoffee.com/), [instagram](https://www.instagram.com/fountcoffee/) 
-
 
 **Working:** 🌕🌕🌕🌕🌕 
 - Lots of big tables
