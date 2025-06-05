@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Internship at Leap 
+title: "My Internship at Leap"
 date: 2022-09-08
 tags: [internship, duke]
 comments: false 
