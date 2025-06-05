@@ -19,7 +19,9 @@ Check out what's on my reading list here: [Oku](https://oku.club/user/czy), [Sto
 
 ### Current Favorite Memes 
 
-![fav meme 1](./images/images/memes/meme-train-plato.jpg =20%x) ![fav meme 2](./images/images/memes/meme-loss-map.jpg =20%x) ![fav meme 3](./images/images/memes/meme-party-crab.jpg =20%x)
+<img src="./images/images/memes/meme-train-plato.jpg"   alt="fav meme 1" width="300"> 
+<img src="./images/images/memes/meme-loss-map.jpg"      alt="fav meme 2" width="300"> 
+<img src="./images/images/memes/meme-party-crab.jpg"    alt="fav meme 3" width="300"> 
 
 ### Disclaimer 
 
