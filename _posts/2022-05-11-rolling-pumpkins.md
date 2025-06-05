@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let the Pumpkins Roll
+title: "Let the Pumpkins Roll"
 date: 2022-05-11
 tags: [duke, mental]
 comments: true
