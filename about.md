@@ -4,12 +4,33 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I'm Christine Yang :) I'm from Short Hills, NJ, but I currently live in Morristown, NJ. 
 
-### More Information
+### Currently Reading 
+- *The Stranger* by Albert Camus
+- *The Stranger* by Albert Camus, trans. Matthew Ward 
 
-A place to include any other types of information that you'd like to include about yourself.
+Check out what's on my reading list here: [Oku](https://oku.club/user/czy), [Storygraph](https://app.thestorygraph.com/profile/czy).
 
-### Contact me
+### Fun Facts
+- 1500+ day streak on Duolingo 
+- shortest Solitaire time is 31s (Klondike, 1-draw)
+- once spent a day in China picking up panda droppings 
 
-[email@domain.com](mailto:email@domain.com)
+### Current Favorite Memes 
+
+<div class="row">
+  <div class="column">
+    <a href="https://en.wikipedia.org/wiki/Allegory_of_the_cave"><img src="./assets/images/memes/meme-train-plato.jpg" alt="fav meme 1"></a>
+  </div>
+  <div class="column">
+    <a href="https://en.wikipedia.org/wiki/Loss_(comic)"><img src="./assets/memes/images/meme-loss-map.jpg" alt="fav meme 2"></a>
+  </div>
+  <div class="column">
+    <a href="https://en.wikipedia.org/wiki/Carcinisation"><img src="./assets/memes/images/meme-party-crab.jpg" alt="fav meme 3"></a>
+  </div>
+</div>
+
+### Disclaimer 
+
+This is a personal blog. 
