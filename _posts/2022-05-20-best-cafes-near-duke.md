@@ -88,10 +88,10 @@ Durham Food Hall, 530 Foster St Suite 1, Durham, NC 27701 //
 
 <div class="row">
   <div class="bicolumn">
-    <img src="./images/images/cafes-near-duke/press1.jpg" alt="Press picture 1">
+    <img src="../images/images/cafes-near-duke/press1.jpg" alt="Press picture 1">
   </div>
   <div class="bicolumn">
-    <img src="./images/images/cafes-near-duke/press2.jpg" alt="Press picture 2">
+    <img src="../images/images/cafes-near-duke/press2.jpg" alt="Press picture 2">
   </div>
 </div>
 
@@ -111,7 +111,7 @@ Durham Food Hall, 530 Foster St Suite 1, Durham, NC 27701 //
 
 ### 💗 Heirloom Coffee Tea Kitchen 
 
-<img src="./images/images/cafes-near-duke/heirloom1.jpg" alt="Heirloom picture 1">
+<img src="../images/images/cafes-near-duke/heirloom1.jpg" alt="Heirloom picture 1">
 
 219 S West St, Raleigh, NC 27603 // 
 [website](https://www.heirloombrewshop.com/), [instagram](https://www.instagram.com/heirloombrewshop/) 
@@ -223,7 +223,7 @@ Durham Food Hall, 530 Foster St Suite 1, Durham, NC 27701 //
 
 ### 👥 People's Coffee 
 
-<img src="./images/images/cafes-near-duke/peoplescoffee1.jpg" alt="People's Coffee picture 1">
+<img src="../images/images/cafes-near-duke/peoplescoffee1.jpg" alt="People's Coffee picture 1">
 
 7831 NC Highway 751, Suite 100, Durham, NC 27713 // 
 [website](https://www.pplscoffee.com/), [instagram](https://www.instagram.com/pplscoffee/), [facebook](https://www.facebook.com/pplscoffee/) 
@@ -325,13 +325,13 @@ ADDRESS
 
 <div class="row">
   <div class="column">
-    <img src="./images/images/cafes-near-duke/fount1.jpg" alt="Fount picture 1">
+    <img src="../images/images/cafes-near-duke/fount1.jpg" alt="Fount picture 1">
   </div>
   <div class="column">
-    <img src="./images/images/cafes-near-duke/fount2.jpg" alt="Fount picture 2">
+    <img src="../images/images/cafes-near-duke/fount2.jpg" alt="Fount picture 2">
   </div>
   <div class="column">
-    <img src="./images/images/cafes-near-duke/fount3.jpg" alt="Fount picture 3">
+    <img src="../images/images/cafes-near-duke/fount3.jpg" alt="Fount picture 3">
   </div>
 </div>
 
