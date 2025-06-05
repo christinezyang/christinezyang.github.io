@@ -6,7 +6,7 @@
 name: Christine Yang
 
 # Short bio or description (displayed in the header)
-description: 
+description: learning new things + appreciating the everyday
 
 #
 # Flags below are optional
@@ -20,7 +20,7 @@ avatar:
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: Blog
+  - name: Home
     url: /
   - name: About
     url: /about
@@ -32,7 +32,7 @@ navigation:
   #  url: https://github.com/AWEEKJ/kiko-now
 
 # Pagination
-paginate: 5
+paginate: 2
 
 # Includes an icon in the footer for each username you enter
 footer-links:
