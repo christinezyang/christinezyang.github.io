@@ -18,7 +18,7 @@ Each book had a story that it told not only through its physical text but also a
 
 Even if you don’t think the joy of going through the book’s meta-story or the lives of its owners can be interesting in its own right, consider the implications it has on historical study. For example, reading someone’s margin notes from the 18th century can indicate the thoughts and ideas of the time. And humans, who are endlessly good at trying to create connections, find that we can empathize with a fellow person through time and space through writing. 
 
-<img src="../images/images/memes/meme-darwin-poorly.jpg" alt="twitter post of a letter from Charles Darwin describing that he felt 'very poorly'" width=300>
+![twitter post of a letter from Charles Darwin describing that he felt 'very poorly'](../images/images/memes/meme-darwin-poorly.jpg)
 
 Thus, the value of a marked book may go down monetarily, but it goes up in a different way. 
 
