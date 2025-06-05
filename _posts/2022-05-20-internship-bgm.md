@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Internship at Black Girl MATHgic 
+title: "My Internship at Black Girl MATHgic" 
 date: 2022-05-20
 tags: [internship, duke]
 comments: false 
