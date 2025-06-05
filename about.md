@@ -21,13 +21,13 @@ Check out what's on my reading list here: [Oku](https://oku.club/user/czy), [Sto
 
 <div class="row">
   <div class="column">
-    <a href="https://en.wikipedia.org/wiki/Allegory_of_the_cave"><img src="../images/images/memes/meme-train-plato.jpg" alt="fav meme 1"></a>
+    <a href="https://en.wikipedia.org/wiki/Allegory_of_the_cave"><img src="./images/images/memes/meme-train-plato.jpg" alt="fav meme 1"></a>
   </div>
   <div class="column">
-    <a href="https://en.wikipedia.org/wiki/Loss_(comic)"><img src="../images/memes/images/meme-loss-map.jpg" alt="fav meme 2"></a>
+    <a href="https://en.wikipedia.org/wiki/Loss_(comic)"><img src="./images/images/meme-loss-map.jpg" alt="fav meme 2"></a>
   </div>
   <div class="column">
-    <a href="https://en.wikipedia.org/wiki/Carcinisation"><img src="../images/memes/images/meme-party-crab.jpg" alt="fav meme 3"></a>
+    <a href="https://en.wikipedia.org/wiki/Carcinisation"><img src="./images/images/meme-party-crab.jpg" alt="fav meme 3"></a>
   </div>
 </div>
 
