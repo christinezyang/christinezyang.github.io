@@ -66,28 +66,8 @@ For most of college I had an answer to the terrifying question, "What do you wan
 
 ### Relevant Memes 
 
-<div class="row">
-  <div class="column">
-    <img src="../images/images/memes/meme-business-bus.jpg" alt="meme 1">
-  </div>
-  <div class="column">
-    <img src="../images/images/memes/meme-halloween-hired.jpg" alt="meme 2">
-  </div>
-  <div class="column">
-    <img src="../images/images/memes/meme-tired-ape-shit.jpg" alt="meme 3">
-  </div>
-</div>
-<div class="row">
-  <div class="column">
-    <img src="../images/images/memes/meme-excel-no-one-cares.jpg" alt="meme 4">
-  </div>
-  <div class="column">
-    <img src="../images/images/memes/meme-unrecognized-talent.jpg" alt="meme 5">
-  </div>
-  <div class="column">
-    <img src="../images/images/memes/meme-crying-financial-statements.jpg" alt="meme 6">
-  </div>
-</div>
+![meme 1](../images/images/memes/meme-business-bus.jpg) ![meme 2](../images/images/memes/meme-halloween-hired.jpg) ![meme 3](../images/images/memes/meme-tired-ape-shit.jpg) 
+![meme 4](../images/images/memes/meme-excel-no-one-cares.jpg) ![meme 5](../images/images/memes/meme-unrecognized-talent.jpg) ![meme 6](../images/images/memes/meme-crying-financial-statements.jpg) 
 
 ---
 
