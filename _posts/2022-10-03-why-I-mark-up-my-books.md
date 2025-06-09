@@ -32,8 +32,6 @@ Keeping the physical copies of my books in good condition is also a way to feed 
 
 In a sort of false-profound way, it’s some proof that I existed, that I was here. I actually used to not care at all about that, but I’ve been thinking differently nowadays - about what kind of residue I’d leave behind. 
 
----
-
-[^1]: maybe this feeling came from when my mom wouldn’t allow my brother to write in workbooks when he was a kid. He wrote answers in a separate notebook because then I could reuse the workbook when I came of age. Did this happen to anyone else? 
+[^1]: Maybe this feeling came from when my mom wouldn’t allow my brother to write in workbooks when he was a kid. He wrote answers in a separate notebook because then I could reuse the workbook when I came of age. Did this happen to anyone else? 
 
 [^2]: Interestingly, I got polarized reviews when I said I was taking a history of the book class. A few friends said that’s “really cool”, and another person I know said “Ugh… Well as long as you like it, Christine,” which is what you say to your friend when they show you a picture of the new guy they’re talking to, but he’s ugly.
