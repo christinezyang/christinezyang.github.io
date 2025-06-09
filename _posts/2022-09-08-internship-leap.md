@@ -6,7 +6,7 @@ tags: [internship, duke]
 comments: false 
 ---
 
-From November 2021 to January 2022, I worked part-time as a community manager intern at [Leap](https://leap.work), a startup I got to know through Duke alum [Francesca Tang](https://frtang.mycpanel.princeton.edu/). Leap is committed to making transparency the foundation of hiring. With a free account, users can 
+From November 2021 to January 2022, I worked part-time as a community manager intern at [Leap](https://leap.work), a startup I got to know through Duke alum [Francesca Tang](https://www.francescatang.com/). Leap is committed to making transparency the foundation of hiring. With a free account, users can 
 - track their applications/interviews
 - see how many applicants make it to the next round
 - chat anonymously with other applicants
