@@ -21,33 +21,34 @@ All photos are taken by me. The vibes rating is entirely my opinion, which may n
 ### Quick Links 
 
 #### Table of Contents 
-- [Top Tier](#top-tier)
-- [Worth Visiting](#-worth-visiting)
-- [Honorable Mentions](#-honorable-mentions)
-- [The Crown Jewel](#-the-crown-jewel)
+- [Top Tier](#Top)
+- [Worth Visiting](#Worth)
+- [Honorable Mentions](#Mentions)
+- [The Crown Jewel](#Crown)
 
 #### List By Alphabet 
 
-[Boba Baba](#-boba-baba) // 
-[Cha House](#-cha-house) // 
-[Cloche](#-cloche-coffee) // 
-[Epilogue](#-epilogue-books-chocolate-brews) // 
-[Everlou](#-everlou-coffee-co) // 
-[Foster Street](#-foster-street-coffee) // 
-[Fount](#-fount-coffee--kitchen) // 
-[Guglhupf](#-guglhupf-bakery-cafe--biergarten) // 
-[Heirloom](#-heirloom-coffee-tea-kitchen) // 
-[Jetplane](#-jetplane-coffee) // 
-[Liturgy](#-liturgy-beverage-company) // 
-[Meeple's Brew](#-meeples-brew) // 
-[Namu](#-namu) // 
-[Oak House, The](#-the-oak-house-durham) // 
-[People's Coffee](#-peoples-coffee) // 
-[Perennial](#-perennial) // 
-[Press](#-press-coffee-crêpes-cocktails)[^1] 
+Boba Baba // 
+Cha House // 
+Cloche // 
+Epilogue // 
+Everlou // 
+Foster Street // 
+Fount // 
+Guglhupf // 
+Heirloom // 
+Jetplane // 
+Liturgy // 
+Meeple's Brew // 
+Namu // 
+Oak House, The // 
+People's Coffee // 
+Perennial // 
+Press[^1] 
 
 _________________
 
+<a name="Top"></a>
 ## Top Tier 
 
 ### 🔥 Liturgy Beverage Company 
@@ -151,6 +152,7 @@ Durham Food Hall, 530 Foster St Suite 1, Durham, NC 27701 //
 
 **Bonus:** Lots of alcohol. :) 
 
+<a name="Worth"></a>
 ## Worth Visiting 
 
 ### ✈️ Jetplane Coffee 
@@ -250,6 +252,7 @@ ADDRESS
 
 **Vibes:** 🌕🌕🌕🌗🌑
 
+<a name="Mentions"></a>
 ## Honorable Mentions 
 
 ### 🎲 Meeple's Brew 
@@ -294,6 +297,7 @@ ADDRESS
 
 **Bonus:** I've seen a good amount of people bring their dogs! 
 
+<a name="Crown"></a>
 ## The Crown Jewel 
 
 ### ⛲ Fount Coffee + Kitchen 
