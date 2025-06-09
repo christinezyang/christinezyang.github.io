@@ -355,7 +355,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $head-font;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -374,7 +374,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $head-font;
   font-size: 18px;
 
   @include mobile {
@@ -454,7 +454,8 @@ nav {
 }
 
 .pagination {
-  font-weight: 300;
+  font-family: $head-font;
+  font-weight: 400;
   padding: 2em 0;
   width: 100%;
   display: inline-block;
@@ -557,6 +558,7 @@ footer {
   text-align: center;
 
   p {
+    font-family: $head-font;
     font-size: $small-font-size;
   }
 
