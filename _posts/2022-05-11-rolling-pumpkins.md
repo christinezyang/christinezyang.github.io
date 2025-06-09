@@ -42,12 +42,21 @@ I wish myself luck!
 
 ### Relevant Memes 
 
-<center> <img src="../images/images/memes/meme-stupid-walk.jpg"   alt="meme 1" width="300"> </center> 
-<center> <img src="../images/images/memes/meme-kirby-fishing.jpg"   alt="meme 2" width="300"> </center> 
-<center> <img src="../images/images/memes/meme-dinos-existence-battle.jpg"   alt="meme 3" width="300"> </center> 
-<center> <img src="../images/images/memes/meme-uniquely-horrible-some-guy.jpg"   alt="meme 4" width="300"> </center> 
-<center> <img src="../images/images/memes/meme-sonic-clown-salary.jpg"   alt="meme 5" width="300"> </center> 
-<center> <img src="../images/images/memes/meme-jaded-human-experience.jpg"   alt="meme 6" width="300"> </center> 
+<p align="center"> 
+ <img src="../images/images/memes/meme-stupid-walk.jpg"   alt="meme 1" width="300"> 
+&nbsp; &nbsp; &nbsp; &nbsp;
+ <img src="../images/images/memes/meme-kirby-fishing.jpg"   alt="meme 2" width="300"> 
+&nbsp; &nbsp; &nbsp; &nbsp;
+ <img src="../images/images/memes/meme-dinos-existence-battle.jpg"   alt="meme 3" width="300"> 
+</p>
+
+<p align="center"> 
+ <img src="../images/images/memes/meme-uniquely-horrible-some-guy.jpg"   alt="meme 4" width="300"> 
+&nbsp; &nbsp; &nbsp; &nbsp;
+ <img src="../images/images/memes/meme-sonic-clown-salary.jpg"   alt="meme 5" width="300"> 
+&nbsp; &nbsp; &nbsp; &nbsp;
+ <img src="../images/images/memes/meme-jaded-human-experience.jpg"   alt="meme 6" width="300"> 
+</p>
 
 ---
 
