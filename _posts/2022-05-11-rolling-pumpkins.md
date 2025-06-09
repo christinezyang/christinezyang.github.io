@@ -20,7 +20,7 @@ It's obvious that a lack of enrichment can make depressive feelings worse. In th
 
 The keywords are "less-negative feeling," meaning whatever you do doesn't have to bring yourself to an absolute positive feeling, but rather it's enough to have it be net positive. One example is when I bought this knit frog airpods case: 
 
-<img src="../images/images/frog-airpods-case.jpg" alt="frog airpods case">
+<center> <img src="../images/images/frog-airpods-case.jpg"   alt="frog airpods case" width="300"> </center>
 
 It looks absolutely ridiculous, and that made me feel the tiniest bit better to see it on my desk. Other examples include keeping at least one thing going (in my case, my Duolingo streak), or appreciating seeing a bee buzz around the flowers on campus. 
 
@@ -42,8 +42,12 @@ I wish myself luck!
 
 ### Relevant Memes 
 
-![meme 1](../images/images/memes/meme-stupid-walk.jpg) ![meme 2](../images/images/memes/meme-kirby-fishing.jpg) ![meme 3](../images/images/memes/meme-dinos-existence-battle.jpg) 
-![meme 4](../images/images/memes/meme-uniquely-horrible-some-guy.jpg) ![meme 5](../images/images/memes/meme-sonic-clown-salary.jpg) ![meme 6](../images/images/memes/meme-jaded-human-experience.jpg) 
+<center> <img src="../images/images/memes/meme-stupid-walk.jpg"   alt="meme 1" width="300"> </center> 
+<center> <img src="../images/images/memes/meme-kirby-fishing.jpg"   alt="meme 2" width="300"> </center> 
+<center> <img src="../images/images/memes/meme-dinos-existence-battle.jpg"   alt="meme 3" width="300"> </center> 
+<center> <img src="../images/images/memes/meme-uniquely-horrible-some-guy.jpg"   alt="meme 4" width="300"> </center> 
+<center> <img src="../images/images/memes/meme-sonic-clown-salary.jpg"   alt="meme 5" width="300"> </center> 
+<center> <img src="../images/images/memes/meme-jaded-human-experience.jpg"   alt="meme 6" width="300"> </center> 
 
 ---
 
