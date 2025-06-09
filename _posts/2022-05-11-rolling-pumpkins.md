@@ -58,6 +58,4 @@ I wish myself luck!
  <img src="../images/images/memes/meme-jaded-human-experience.jpg"   alt="meme 6" width="300"> 
 </p>
 
----
-
 [^1]: The [videos](https://www.instagram.com/whataboutbunny/) featuring Bunny and her owner are delightful. Yes, it directly relates to the [Chinese Room Argument](https://plato.stanford.edu/entries/chinese-room/), but I honestly don't care too much since the videos are so cute and compelling. 
