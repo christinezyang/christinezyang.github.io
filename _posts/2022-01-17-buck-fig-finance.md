@@ -82,8 +82,6 @@ For most of college I had an answer to the terrifying question, "What do you wan
   <img alt="meme 6" src="../images/images/memes/meme-crying-financial-statements.jpg" width=300>
 </p>
 
----
-
 [^1]: I believe BOW has a (relatively) high acceptance rate. 
 [^2]: Where I was at, credit trading desks were highly sought after. 
-[^3]: Many remarked, "at least it's better than investment banking hours!", as if almost everything weren't better than a 90-hour work week... So it's a meaningless statement. 
+[^3]: Many remarked, "at least it's better than investment banking hours!", as if almost everything weren't better than a 90-hour work week... So it seems like a meaningless statement. 
