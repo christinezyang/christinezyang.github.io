@@ -19,9 +19,18 @@ $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
+<!-- Copied from Google Fonts Embed page --> 
+<!-- I don't know what I'm doing -CY --> 
+.dm-sans-<DMSans> {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300,400,600,800;
+  font-style: normal;
+}
+
 // Fonts
-$base-font: 'Spoqa Han Sans', 'Source Sans Pro', 'Apple SD Gothic Neo', 'Nanum Barun Gothic', 'Nanum Gothic', 'Verdana', 'Arial', 'Dotum', sans-serif;
-$code-font: 'Menlo', 'Courier New', 'Monaco', 'Spoqa Han Sans', monospace;
+$base-font: 'DM Sans', 'Spoqa Han Sans', 'Source Sans Pro', 'Apple SD Gothic Neo', 'Nanum Barun Gothic', 'Nanum Gothic', 'Verdana', 'Arial', 'Dotum', sans-serif;
+$code-font: 'Menlo', 'Courier New', 'Monaco', 'DM Sans', 'Spoqa Han Sans', monospace;
 
 // Font sizes
 $base-font-size: 18px;
