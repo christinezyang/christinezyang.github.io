@@ -14,7 +14,9 @@ All the places mentioned below are local places (i.e. not a certain franchise th
 
 <center> <img src="../images/images/cafes-near-duke/friendsdontletfriends.jpg"   alt="'friends don't let friends drink corporate coffee'" width="300"> </center>
 
-(I am literally begging you to stop going to Starbucks)
+<p align="center">
+    <sup><sub>I am literally begging you to stop going to Starbucks</sub></sup>
+</p>
 
 All photos are taken by me. The vibes rating is entirely my opinion, which may not mirror yours. 
 
@@ -319,7 +321,5 @@ ADDRESS
 **Note:** I found this place by accident when I was taking part in the DukeEngage Durham program during my freshman summer. I went to the government office next door to get my UK Work Visa (the program took place in Durham, NC and Durham, UK), but on the way I peered in what looked like a really cool cafe. I promptly saved it in my "Want to go" list in Google Maps, but we didn't get the chance to go until junior year. We loved it so much we would Uber there every week before I brought a car. Almost nothing could've stop us from going to our weekly Fount trip. Partly why I left my Fridays class-free is to go to Fount (the other reason is self-explanatory). 
 
 **Bonus:** Pretty much the entire menu of food and drinks is delicious. I would recommend anything on the seasonal menu. 
-
----
 
 [^1]: I can't believe it ends at P. 
