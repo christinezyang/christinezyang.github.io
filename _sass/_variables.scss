@@ -27,9 +27,25 @@ $georgia: Georgia, serif;
   font-weight: 300,400,600,800;
   font-style: normal;
 }
+.nanum-myeongjo-regular {
+  font-family: "Nanum Myeongjo", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.nanum-myeongjo-bold {
+  font-family: "Nanum Myeongjo", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.nanum-myeongjo-extrabold {
+  font-family: "Nanum Myeongjo", serif;
+  font-weight: 800;
+  font-style: normal;
+}
 
 // Fonts
 $base-font: 'DM Sans', 'Spoqa Han Sans', 'Source Sans Pro', 'Apple SD Gothic Neo', 'Nanum Barun Gothic', 'Nanum Gothic', 'Verdana', 'Arial', 'Dotum', sans-serif;
+$head-font: 'Nanum Myeongjo', 'DM Sans', 'Spoqa Han Sans', 'Source Sans Pro', 'Apple SD Gothic Neo', 'Nanum Barun Gothic', 'Nanum Gothic', 'Verdana', 'Arial', 'Dotum', sans-serif;
 $code-font: 'Menlo', 'Courier New', 'Monaco', 'DM Sans', 'Spoqa Han Sans', monospace;
 
 // Font sizes
