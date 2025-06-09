@@ -18,6 +18,4 @@ There are obvious uses for the "mess": at some point, angst forces your hand to 
 
 I'm not saying the benefits outweigh the cons or that the serious negative effects of depression shouldn't be taken seriously. But at least I'm putting the *mess* to work. 
 
----
-
 [^1]: John Irving, *The World According to Garp* (Dutton: United States, 1976), 215. 
