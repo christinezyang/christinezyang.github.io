@@ -12,7 +12,7 @@ If there's one thing I'm gatekeep-y about, it's finding local cafes before every
 
 All the places mentioned below are local places (i.e. not a certain franchise that begins with ⭐). I strongly encourage the reader to check them out in person and form your own thoughts about them. At the same time, you can support some cool local businesses! Relevant sign I found in Miami: 
 
-![friends don't let friends drink corporate coffee](../images/images/cafes-near-duke/friendsdontletfriends.jpg)
+<center> <img src="../images/images/cafes-near-duke/friendsdontletfriends.jpg"   alt="'friends don't let friends drink corporate coffee'" width="300"> </center>
 
 (I am literally begging you to stop going to Starbucks)
 
@@ -22,26 +22,9 @@ All photos are taken by me. The vibes rating is entirely my opinion, which may n
 
 #### Table of Contents 
 - [Top Tier](#top-tier)
-  - [Liturgy](#-liturgy-beverage-company)
-  - [Press](#-press-coffee-crêpes-cocktails)
-  - [Heirloom](#-heirloom-coffee-tea-kitchen)
-  - [Cha House](#-cha-house)
-  - [Namu](#-namu)
-  - [The Oak House](#-the-oak-house-durham)
 - [Worth Visiting](#-worth-visiting)
-  - [Jetplane](#-jetplane-coffee)
-  - [Foster Street](#-foster-street-coffee)
-  - [Epilogue](#-epilogue-books-chocolate-brews)
-  - [People's Coffee](#-peoples-coffee)
-  - [Perennial](#-perennial)
-  - [Guglhupf](#-guglhupf-bakery-cafe--biergarten)
-  - [Everlou](#-everlou-coffee-co)
 - [Honorable Mentions](#-honorable-mentions)
-  - [Meeple's Brew](#-meeples-brew)
-  - [Boba Baba](#-boba-baba)
-  - [Cloche](#-cloche-coffee)
 - [The Crown Jewel](#-the-crown-jewel)
-  - [Fount](#-fount-coffee--kitchen)
 
 #### List By Alphabet 
 
