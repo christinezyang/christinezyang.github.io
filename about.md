@@ -4,18 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm Christine Yang :) I'm from Short Hills, NJ, but I currently live in Morristown, NJ. 
+Hi! I'm Christine Yang :) I'm from Millburn / Short Hills, NJ, and I currently live in New York City. 
 
 ### Currently Reading 
 - *The Stranger* by Albert Camus
 - *The Stranger* by Albert Camus, trans. Matthew Ward 
 
-Check out what's on my reading list here: [Oku](https://oku.club/user/czy), [Storygraph](https://app.thestorygraph.com/profile/czy).
+Check out what's on my reading list here: [Storygraph](https://app.thestorygraph.com/profile/czy).
 
 ### Fun Facts
-- 1500+ day streak on Duolingo 
-- shortest Solitaire time is 31s (Klondike, 1-draw)
-- once spent a day in China picking up panda droppings 
+- 2000+ day streak on Duolingo 
+- shortest 1-draw Klondike Solitaire time is 31s
+- once spent a day in China picking up panda droppings (was not stinky)
 
 ### Current Favorite Memes 
 
